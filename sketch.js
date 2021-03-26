@@ -5,8 +5,8 @@ var dog,dogSound;
 function preload()
 {
 	//load images here
-  happyDog=loadImage("happyDog.png");
-  dogImg=loadImage("Dog.png");
+  happyDog=loadImage("images/dogImg1.png");
+  dogImg=loadImage("images/dogImg.png");
   dogSound=loadSound("dogsound.mp3");
 }
 
